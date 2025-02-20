@@ -1,0 +1,20 @@
+{
+    "authors": [
+        {
+            "maintainer": true,
+            "name": "Elrindel",
+            "url": "https://github.com/Elrindel"
+        }
+    ],
+    "description": "Simple and minimalist Somfy remote control decoder",
+    "frameworks": "arduino",
+    "keywords": "somfy, rts",
+    "license": "GPL-3.0-only",
+    "name": "Somfy Receiver",
+    "platforms": "*",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Elrindel/SomfyReceiver.git"
+    },
+    "version": "1.0.0"
+}
